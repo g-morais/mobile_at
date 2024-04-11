@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "palosos.",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "pala",
+  "start_url": "https://main--palosos.netlify.app/",
+  "theme_color": "#445ad8",
+  "icons": [
+    {
+      "src": "assets/img/favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "id": "ID_pwa",
+  "lang": "pt"
+}
