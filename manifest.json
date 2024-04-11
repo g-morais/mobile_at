@@ -15,9 +15,14 @@
       "sizes": "32x32"
     },
     {
-      "src": "assets/img/apple.png",
+      "src": "assets/img/180.png",
       "type": "image/png",
       "sizes": "180x180"
+    },
+    {
+      "src": "assets/img/apple.png",
+      "type": "image/png",
+      "sizes": "72x72"
     }
   ],
   "id": "ID_pwa",
